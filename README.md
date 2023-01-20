@@ -1,3 +1,9 @@
+# This is a fork
+
+Because the project is not well-maintained and requires slight fixes to allow this library to actually be used.
+
+I would generally suggest moving away from this repository. An alternative has been started by @felixjulianheitmann at [licensecxx](https://github.com/felixjulianheitmann/licensecc). This might me more suitable to use as a library. However, it's still under development.
+
 # License Generator
 
 [![Standard](https://img.shields.io/badge/c%2B%2B-11-blue.svg)](https://en.wikipedia.org/wiki/C%2B%2B#Standardization)
